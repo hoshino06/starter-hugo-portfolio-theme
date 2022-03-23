@@ -10,6 +10,3 @@ main:
   - name:　About
     url: about/
     weight: 20
-  - name: Publications
-    url: about/
-    weight: 30
